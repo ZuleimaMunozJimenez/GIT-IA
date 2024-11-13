@@ -1,3 +1,6 @@
+
+HTTPS: https://github.com/ZuleimaMunozJimenez/GIT-IA.git
+
 Alumno 1: Zuleima Muñoz
 Alumno 2: Alejandro Cabo
 
@@ -47,4 +50,16 @@ GitHub.
 10
 - Usamos el comando git fetch origin que actualiza los ultimos cambios en remoto
 - Y git diff origin/master..ramaAlumno2 para comprobar la diferencia entre la rama master y la nuestra.
->>>>>>> ramaAlumno2
+
+11.
+- git merge 'nombreRama' : Para fusionar la rama master con nuestra rama de trabajo.
+- git push origin master : Para subir al repositorio remoto los cambios.
+
+Los dos no hemos podido realizar los mismos pasos. Porque al hacer push el segundo, nos da un error sobre que hay contenido que no está en el repositorio local.
+Por eso, hacemos git pull origin master para traer los cambios y posteriormente el push para subir los nuestros.
+
+
+12.
+Para solucionar el problema tedioso de la solicitud constante de credenciales hacemos uso de git config --global credential.helper store . Esto hace que al ejecutar otro push o pull guarde las credenciales en texto plano y no vuelve a solicitarnosla.
+
+
