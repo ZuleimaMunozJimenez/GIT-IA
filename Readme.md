@@ -26,3 +26,9 @@ GitHub.
 - Vamos a volver a usar nuevamente _git add ._ , _git commit -m 'Actualización README'_
 - git push origin master : Para subir los cambios realizados.
 
+7.
+- git checkout master para comprobar si estamos en la rama master
+- git checkout -b "nombreRama" para crear y moverse a esa rama
+
+8.
+- El asterisco que aparece es para indicarnos la rama en la que estamos situados, en nuestro caso aparace en la rama master
