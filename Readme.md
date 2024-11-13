@@ -27,9 +27,24 @@ GitHub.
 - git push origin master : Para subir los cambios realizados.
 
 7.
+<<<<<<< HEAD
 - git branch "nombreRama" para crear una rama
 - git branch -m "ramaActual" "ramaNueva" para cambiar el nombre de la rama
 
 8.
 - Al usar git branch nos muestra el listado de las ramas en ella vemos un asterisco que nos indica en que rama estamos, en este caso, rama master
 
+=======
+- git checkout master para comprobar si estamos en la rama master
+- git checkout -b "nombreRama" para crear y moverse a esa rama
+
+8.
+- El asterisco que aparece es para indicarnos la rama en la que estamos situados, en nuestro caso aparace en la rama master
+
+9
+- En el apartado 9 ambos alumnos creamos los dos ficheros
+
+10
+- Usamos el comando git fetch origin que actualiza los ultimos cambios en remoto
+- Y git diff origin/master..ramaAlumno2 para comprobar la diferencia entre la rama master y la nuestra.
+>>>>>>> ramaAlumno2
