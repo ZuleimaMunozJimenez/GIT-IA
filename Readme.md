@@ -26,3 +26,10 @@ GitHub.
 - Vamos a volver a usar nuevamente _git add ._ , _git commit -m 'Actualización README'_
 - git push origin master : Para subir los cambios realizados.
 
+7.
+- git branch "nombreRama" para crear una rama
+- git branch -m "ramaActual" "ramaNueva" para cambiar el nombre de la rama
+
+8.
+- Al usar git branch nos muestra el listado de las ramas en ella vemos un asterisco que nos indica en que rama estamos, en este caso, rama master
+
