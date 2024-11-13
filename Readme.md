@@ -32,3 +32,10 @@ GitHub.
 
 8.
 - El asterisco que aparece es para indicarnos la rama en la que estamos situados, en nuestro caso aparace en la rama master
+
+9
+- En el apartado 9 ambos alumnos creamos los dos ficheros
+
+10
+- Usamos el comando git fetch origin que actualiza los ultimos cambios en remoto
+- Y git diff origin/master..ramaAlumno2 para comprobar la diferencia entre la rama master y la nuestra.
