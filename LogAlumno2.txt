@@ -1,3 +1,6 @@
+f587817 2024-11-13 | Merge branch 'master' of https://github.com/ZuleimaMunozJimenez/GIT-IA [AlexCaboVaz]
+bdfa479 2024-11-13 | Creacion LogALumno2 [AlexCaboVaz]
+34235c4 2024-11-13 | Creación LogAlumno1.txt [ZuleimaMunozJimenez]
 9f79549 2024-11-13 | Log creado Alumno2 [AlexCaboVaz]
 ce3ee5b 2024-11-13 | Actualización README [ZuleimaMunozJimenez]
 442334f 2024-11-13 | Merge branch 'master' of https://github.com/ZuleimaMunozJimenez/GIT-IA [ZuleimaMunozJimenez]
