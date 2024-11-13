@@ -1,2 +1,13 @@
-usuario: AlexCaboVaz
-TOKEN: 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
+9f79549 2024-11-13 | Log creado Alumno2 [AlexCaboVaz]
+ce3ee5b 2024-11-13 | Actualización README [ZuleimaMunozJimenez]
+442334f 2024-11-13 | Merge branch 'master' of https://github.com/ZuleimaMunozJimenez/GIT-IA [ZuleimaMunozJimenez]
+b1f602d 2024-11-13 | Actualizacion Readme.md [AlexCaboVaz]
+7bbc9e5 2024-11-13 | Merge branch 'ramaAlumno1' [ZuleimaMunozJimenez]
+7c18bdd 2024-11-13 | Actualizacion Readme.md [AlexCaboVaz]
+2d2d69f 2024-11-13 | Añadiendo fichero almacen_cli.java [ZuleimaMunozJimenez]
+4f6d69f 2024-11-13 | Añadiendo fichero cliente.java [AlexCaboVaz]
+26d2854 2024-11-13 | Actualizacion Readme.md [AlexCaboVaz]
+06c53a8 2024-11-13 | Actualizacion Readme.md [AlexCaboVaz]
+75a1a22 2024-11-12 | Actualización README [ZuleimaMunozJimenez]
+ad1f2cf 2024-11-12 | Crear el Readme y añadir roles y comandos [AlexCaboVaz]
+3198c7c 2024-11-06 | Inicialización del repositorio con archivos Farmacia [ZuleimaMunozJimenez]
